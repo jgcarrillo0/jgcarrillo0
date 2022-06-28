@@ -39,7 +39,7 @@ Actualmente estoy de lleno trabajando con Python, pero en mis tiempos libres me 
 💪 Y por supuesto me gusta hacer deporte, no todo puede ser computador
 
 
-# 💬 Contactame en:
+# 💬 Contáctame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian_Carrillo-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/jgcarrillo0)
 
