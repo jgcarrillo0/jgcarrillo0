@@ -16,12 +16,12 @@ Actualmente estoy de lleno trabajando con Python, pero en mis tiempos libres me 
 
 # 🛠️ Skills:
 
-[![Python](https://img.shields.io/badge/Python-47A141?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
-[![R](https://img.shields.io/badge/R_Studio-276DC3?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-47A141?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R_Studio-276DC3?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)](https://www.r-project.org/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)](https://aws.amazon.com/es/)
 [![SQL](https://img.shields.io/badge/SQL-999999?style=for-the-badge&logo=Liquibase&logoColor=white&labelColor=101010)]()
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white&labelColor=101010)]()
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)]()
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white&labelColor=101010)](https://powerbi.microsoft.com/es-es/desktop/)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)](https://www.arduino.cc/)
 
 
 <a href="https://github.com/jgcarrillo0/jgcarrillo0">
