@@ -1,4 +1,5 @@
-![Portada](https://github.com/jgcarrillo0/jgcarrillo0/blob/main/Portada_.gif)
+![Portada](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzczajVyam5qeXdwZmQ2eWM2djBvdXQ1dGUwYmUyY2Y0dXc3ZTA4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ut2FD9zNFpj07OJcU7/giphy-downsized-large.gif)
+
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=jgcarrillo0&color=2685BF)
 
