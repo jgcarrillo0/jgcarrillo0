@@ -1,4 +1,4 @@
-![Portada](https://github.com/jgcarrillo0/jgcarrillo0/blob/main/Portada.gif?autoplay=1)
+![Portada](https://github.com/jgcarrillo0/jgcarrillo0/blob/main/Portada_.gif)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=jgcarrillo0&color=2685BF)
 
