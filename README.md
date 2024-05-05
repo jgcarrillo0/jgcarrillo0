@@ -17,7 +17,7 @@ En este repositorio, encontrarás una variedad de recursos cuidadosamente selecc
 
 No importa si eres un principiante absoluto o un programador experimentado, aquí encontrarás un espacio para aprender, colaborar y crecer junto con una comunidad de apasionados por Python. ¡Únete a nosotros y comienza tu viaje hacia la maestría en Python hoy mismo!
 
-![Curso de Python](https://github.com/jgcarrillo0/Curso_Python)
+[Curso de Python](https://github.com/jgcarrillo0/Curso_Python)
 
 # 🛠️ Skills:
 
