@@ -11,13 +11,9 @@ Trabajo actualmente en el equipo de analítica de una compañía colombiana del 
 
 # 💼 ¿Qué puedes encontrar en mi repositorio?
 
-Este repositorio está diseñado para acompañar y potenciar tu experiencia de aprendizaje en el mundo de la programación con Python. Ya sea que estés dando tus primeros pasos en el lenguaje o buscando mejorar tus habilidades existentes, este curso está diseñado para ayudarte a dominar los fundamentos y avanzar hacia niveles más avanzados.
+## [Curso de Python](https://github.com/jgcarrillo0/Curso_Python)
 
-En este repositorio, encontrarás una variedad de recursos cuidadosamente seleccionados para respaldar tu progreso. Desde archivos de código hasta ejercicios prácticos y proyectos completos, nuestro objetivo es proporcionarte todo lo que necesitas para consolidar tu comprensión y aplicar tus conocimientos en el mundo real.
-
-No importa si eres un principiante absoluto o un programador experimentado, aquí encontrarás un espacio para aprender, colaborar y crecer junto con una comunidad de apasionados por Python. ¡Únete a nosotros y comienza tu viaje hacia la maestría en Python hoy mismo!
-
-[Curso de Python](https://github.com/jgcarrillo0/Curso_Python)
+Una de las actividades que disfruto mucho es enseñar, y durante los últimos años he recopilado y organizado notas de clase sobre Python. Mi objetivo es contribuir a las personas que están comenzando a programar en este maravilloso lenguaje. He estructurado el curso de manera gradual, para que cada lección proporcione nuevas herramientas y fortalezca el conocimiento adquirido.
 
 # 🛠️ Skills:
 
