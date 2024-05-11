@@ -44,4 +44,10 @@ Una de las actividades que disfruto mucho es enseñar, y durante los últimos a�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgcarrillo0&theme=tokyonight&progress=true\&locale=es)
 
+***
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png" alt="Descripción" width="5%" /> Hecho en colombia 
+![Power](https://img.shields.io/badge/Power_by_Berraquera-004DB4?style=for-the-badge&logo=Rocket&logoColor=white&labelColor=101010)
+<p align="center">
+  <img src="https://lifelineus.com/wp-content/uploads/2019/10/best-quality1.png" alt="Descripción" width="15%"/>
+</p>
