@@ -48,15 +48,16 @@ Una de las actividades que disfruto mucho es enseñar, y durante los últimos a�
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgcarrillo0&theme=tokyonight&progress=true\&locale=es)
 
 # 🏆 Logros
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=jgcarrillo0&theme=tokyonight\&locale=es)
+![Rachas](https://github-readme-streak-stats.herokuapp.com/?user=jgcarrillo0&theme=tokyonight\&locale=es)
 
-![Stats](https://github-profile-trophy.vercel.app/?username=jgcarrillo0&theme=tokyonight\&locale=es)
+![Logros](https://github-profile-trophy.vercel.app/?username=jgcarrillo0&theme=tokyonight\&locale=es)
 
 ***
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png" alt="Descripción" width="5%" /> Hecho en Colombia
 ![Power](https://img.shields.io/badge/Power_by_Berraquera-004DB4?style=for-the-badge&logo=Azure%20Functions&logoColor=white&labelColor=000000)
 ![Exito](https://img.shields.io/badge/sin_miedo_al_exito-00465B?style=for-the-badge&logo=Rocket&logoColor=white&labelColor=000000)
+![Hacer](https://img.shields.io/badge/%C2%BFQué_hay_pa’_hacer%3F-B8DBE4?style=for-the-badge&logo=GNU%20Bash&logoColor=white&labelColor=000000)
 <p align="center">
-  <img src="https://lifelineus.com/wp-content/uploads/2019/10/best-quality1.png" alt="Descripción" width="15%"/>
+  <img src="https://lifelineus.com/wp-content/uploads/2019/10/best-quality1.png" alt="Descripción" width="20%"/>
 </p>
