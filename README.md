@@ -40,7 +40,7 @@ Una de las actividades que disfruto mucho es enseñar, y durante los últimos a�
 
 # 📊 Estadísticas
 
-![jgcarrillo0's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jgcarrillo0&show_icons=true&theme=tokyonight\&locale=es)
+![jgcarrillo0's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jgcarrillo0&show_icons=true&theme=tokyonight&rank_icon=github\&locale=es)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgcarrillo0&theme=tokyonight&progress=true\&locale=es)
 
