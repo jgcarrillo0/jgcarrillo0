@@ -47,7 +47,8 @@ Una de las actividades que disfruto mucho es enseñar, y durante los últimos a�
 ***
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png" alt="Descripción" width="5%" /> Hecho en Colombia 
-![Power](https://img.shields.io/badge/Power_by_Berraquera-004DB4?style=for-the-badge&logo=Rocket&logoColor=white&labelColor=101010)
+![Power](https://img.shields.io/badge/Power_by_Berraquera-004DB4?style=for-the-badge&logo=Azure%20Functions&logoColor=white&labelColor=101010)
+![Exito](https://img.shields.io/badge/sin_miedo_al_exito-00465B?style=for-the-badge&logo=Rocket&logoColor=white&labelColor=101010)
 <p align="center">
   <img src="https://lifelineus.com/wp-content/uploads/2019/10/best-quality1.png" alt="Descripción" width="15%"/>
 </p>
