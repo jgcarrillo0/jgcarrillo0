@@ -40,13 +40,13 @@ Una de las actividades que disfruto mucho es enseñar, y durante los últimos a�
 
 # 📊 Estadísticas
 
-![jgcarrillo0's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jgcarrillo0&show_icons=true&theme=tokyonight&rank_icon=github\&locale=es)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgcarrillo0&theme=tokyonight&progress=true\&locale=es)
+
+![jgcarrillo0's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jgcarrillo0&show_icons=true&theme=tokyonight&rank_icon=github\&locale=es)
 
 ***
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png" alt="Descripción" width="5%" /> Hecho en colombia 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png" alt="Descripción" width="5%" /> Hecho en Colombia 
 ![Power](https://img.shields.io/badge/Power_by_Berraquera-004DB4?style=for-the-badge&logo=Rocket&logoColor=white&labelColor=101010)
 <p align="center">
   <img src="https://lifelineus.com/wp-content/uploads/2019/10/best-quality1.png" alt="Descripción" width="15%"/>
