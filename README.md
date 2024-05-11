@@ -16,6 +16,10 @@ Trabajo actualmente en el equipo de analítica de una compañía colombiana del 
 
 🕵️‍♂️ Me gustan los libros de Sherlock Holmes
 
+🎮 En mis tiempos libres juego videojuegos
+
+🎸 Amo el Rock 🤘
+
 💪 Y por supuesto me gusta hacer deporte, no todo puede ser computador
 
 # 💼 Proyectos
