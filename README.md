@@ -26,17 +26,19 @@ Una de las actividades que disfruto mucho es enseñar, y durante los últimos a�
 
 # 🛠️ Habilidades:
 
-| Lenguajes | ![Python](https://img.shields.io/badge/Python-47A141?style=for-the-badge&logo=Python&logoColor=white&labelColor=000000) | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white&labelColor=000000) | ![SQL](https://img.shields.io/badge/SQL-999999?style=for-the-badge&logo=Liquibase&logoColor=white&labelColor=000000) |
-|-----------|---|---|---|
+| Lenguajes | ![Python](https://tinyurl.com/3b4p77sb) | ![R](https://tinyurl.com/52dzbc9z) | ![SQL](https://tinyurl.com/4j23w4cf) |
+|---|---|---|---|
 
-| Plataformas | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)| ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=000000) |
-|-----------|---|---|---|
+| Nubes | ![Azure](https://tinyurl.com/mr2pmsez) | ![AWS](https://tinyurl.com/3mhy8pcr)| ![GCP](https://tinyurl.com/2b8ut88d) |
+|---|---|---|---|
 
-| IDE´s | ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=000000) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=000000) | ![Spyder](https://img.shields.io/badge/spyder%20ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white&labelColor=000000) | ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white&labelColor=000000) | ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white&labelColor=000000) |
-|-----------|---|---|---|---|---|
+| IDE´s | ![VScode](https://tinyurl.com/y95nvu7v) | ![Jupyter](https://tinyurl.com/5n7u7wmd) |
+|---|---|---|
+| ![Colab](https://tinyurl.com/yjj85rf2) | ![RStudio](https://tinyurl.com/yc4k7ah6) | ![Spyder](https://tinyurl.com/y4fv75nx) |
 
-| Otras| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white&labelColor=000000) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&labelColor=000000) | ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white&labelColor=000000) | ![VBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white&labelColor=000000) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=000000) |
-|-----------|---|---|---|---|---|
+| Otras| ![Power BI](https://tinyurl.com/4su4r33d) | ![Postman](https://tinyurl.com/5n8tzwm5) |  
+|---|---|---|
+| ![VBox](https://tinyurl.com/bdhcstdj) | ![Arduino](https://tinyurl.com/mr33w326) | ![Latex](https://tinyurl.com/3ma4f2at)|
 
 # 📊 Estadísticas
 
