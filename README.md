@@ -26,28 +26,19 @@ Una de las actividades que disfruto mucho es enseñar, y durante los últimos a�
 
 # 🛠️ Habilidades:
 
-| Lenguajes | ![Python](https://img.shields.io/badge/Python-47A141?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)  |   |
-|-----------|---|---|
-| Ide       |   |   |
-| Nubes     |   |   |
-|           |   |   |
+| Lenguajes | ![Python](https://img.shields.io/badge/Python-47A141?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010) | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white&labelColor=101010) | ![SQL](https://img.shields.io/badge/SQL-999999?style=for-the-badge&logo=Liquibase&logoColor=white&labelColor=101010) |
+|-----------|---|---|---|
 
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+| Plataformas | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=101010) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)| ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010) |
+|-----------|---|---|---|
 
-![Python](https://img.shields.io/badge/Python-47A141?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)
+| IDE´s | ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=101010) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=101010) | ![Spyder](https://img.shields.io/badge/spyder%20ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white&labelColor=101010) | ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white&labelColor=101010) | ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white&labelColor=101010) |
+|-----------|---|---|---|---|---|
 
-[![Python](https://img.shields.io/badge/Python-47A141?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)](https://www.python.org/)
+| Herramientas| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white&labelColor=101010) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010) | ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white&labelColor=101010) | ![VBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white&labelColor=101010) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010) |
+|-----------|---|---|---|---|---|
 
-[![R](https://img.shields.io/badge/R_Studio-276DC3?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)](https://www.r-project.org/)
-[![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white&labelColor=101010)]([https://www.arduino.cc/](https://colab.research.google.com/))
-[![Spyder](https://img.shields.io/badge/spyder%20ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white&labelColor=101010)]([https://www.arduino.cc/](https://colab.research.google.com/))
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)](https://aws.amazon.com/es/)
-[![SQL](https://img.shields.io/badge/SQL-999999?style=for-the-badge&logo=Liquibase&logoColor=white&labelColor=101010)]()
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white&labelColor=101010)](https://powerbi.microsoft.com/es-es/desktop/)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)](https://www.arduino.cc/)
-
-
-# 📊 Algunas estadísticas
+# 📊 Estadísticas
 
 ![jgcarrillo0's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jgcarrillo0&show_icons=true&theme=tokyonight\&locale=es)
 
