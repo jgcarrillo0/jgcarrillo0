@@ -24,6 +24,9 @@ Trabajo actualmente en el equipo de analítica de una compañía colombiana del 
 
 # 💼 Proyectos
 
+>[!warning]
+> En este momento estoy actualizando el repositorio, iré subiendo el material en mis timpos libres.
+
 ### 📌 [Curso de Python](https://github.com/jgcarrillo0/Curso_Python)
 
 Una de las actividades que disfruto mucho es enseñar, y durante los últimos años he recopilado y organizado notas de clase sobre Python. Mi objetivo es contribuir a las personas que están comenzando a programar en este maravilloso lenguaje. He estructurado el curso de manera gradual, para que cada lección proporcione nuevas herramientas y fortalezca el conocimiento adquirido.
