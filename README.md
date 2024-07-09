@@ -64,11 +64,11 @@ Una de las actividades que disfruto mucho es enseñar, y durante los últimos a�
 ### 💪 Just Do It
 
 <p align="center">
-  <img src="https://github.com/jgcarrillo0/jgcarrillo0/assets/66538746/f609c29f-b366-45cd-8a6e-f3171d262694" alt="Descripción" width="15%"/>
-  <img src="https://lifelineus.com/wp-content/uploads/2019/10/best-quality1.png" alt="Descripción" width="17%"/>
+  <a href="[URL_DEL_ENLACE](https://www.youtube.com/watch?v=sJGmvyH7EMM)"><img src="https://github.com/jgcarrillo0/jgcarrillo0/assets/66538746/f609c29f-b366-45cd-8a6e-f3171d262694" alt="QR" width="15%"/></a>
+  <img src="https://lifelineus.com/wp-content/uploads/2019/10/best-quality1.png" alt="Calidad" width="17%"/>
 </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png" alt="Descripción" width="5%" /> Hecho en Colombia
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png" alt="Bandera" width="5%" /> Hecho en Colombia
 ![Power](https://img.shields.io/badge/Power_by_Berraquera-004DB4?style=for-the-badge&logo=Azure%20Functions&logoColor=white&labelColor=000000)
 ![Exito](https://img.shields.io/badge/sin_miedo_al_exito-00465B?style=for-the-badge&logo=Rocket&logoColor=white&labelColor=000000)
 ![Hacer](https://img.shields.io/badge/%C2%BFQué_hay_pa’_hacer%3F-B8DBE4?style=for-the-badge&logo=GNU%20Bash&logoColor=white&labelColor=000000)
