@@ -64,7 +64,7 @@ Una de las actividades que disfruto mucho es enseñar, y durante los últimos a�
 ### 💪 Just Do It
 
 <p align="center">
-  <a href="[URL_DEL_ENLACE](https://www.youtube.com/watch?v=sJGmvyH7EMM)"><img src="https://github.com/jgcarrillo0/jgcarrillo0/assets/66538746/f609c29f-b366-45cd-8a6e-f3171d262694" alt="QR" width="15%"/></a>
+  <a href="https://www.youtube.com/watch?v=sJGmvyH7EMM"><img src="https://github.com/jgcarrillo0/jgcarrillo0/assets/66538746/f609c29f-b366-45cd-8a6e-f3171d262694" alt="QR" width="15%"/></a>
   <img src="https://lifelineus.com/wp-content/uploads/2019/10/best-quality1.png" alt="Calidad" width="17%"/>
 </p>
 
