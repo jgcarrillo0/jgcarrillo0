@@ -31,6 +31,11 @@ Trabajo actualmente en el equipo de analítica de una compañía colombiana del 
 
 Una de las actividades que disfruto mucho es enseñar, y durante los últimos años he recopilado y organizado notas de clase sobre Python. Mi objetivo es contribuir a las personas que están comenzando a programar en este maravilloso lenguaje. He estructurado el curso de manera gradual, para que cada lección proporcione nuevas herramientas y fortalezca el conocimiento adquirido.
 
+### 📌 [Práctica FastAPI - Docker](https://github.com/jgcarrillo0/Curso_Python)
+
+Presenta un breve ejemplo de cómo desplegar una API con la cual podemos usar un modelo GPT-2 para la generación de texto. Se hace uso de FastAPI para montar la API, y mediante Docker podemos desplegarla a través de un contenedor.
+
+
 # 🛠️ Habilidades:
 
 | Lenguajes | ![Python](https://tinyurl.com/3b4p77sb) | ![R](https://tinyurl.com/52dzbc9z) | ![SQL](https://tinyurl.com/4j23w4cf) |
