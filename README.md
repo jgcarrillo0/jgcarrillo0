@@ -70,7 +70,6 @@ Presenta un breve ejemplo de cómo desplegar una API con la cual podemos usar un
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=sJGmvyH7EMM"><img src="https://github.com/jgcarrillo0/jgcarrillo0/assets/66538746/f609c29f-b366-45cd-8a6e-f3171d262694" alt="QR" width="15%"/></a>
-  <img src="https://lifelineus.com/wp-content/uploads/2019/10/best-quality1.png" alt="Calidad" width="17%"/>
 </p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png" alt="Bandera" width="5%" /> Hecho en Colombia
