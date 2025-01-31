@@ -68,9 +68,7 @@ Presenta un breve ejemplo de cómo desplegar una API con la cual podemos usar un
 
 ### 💪 Just Do It
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=sJGmvyH7EMM"><img src="https://github.com/jgcarrillo0/jgcarrillo0/assets/66538746/f609c29f-b366-45cd-8a6e-f3171d262694" alt="QR" width="15%"/></a>
-</p>
+[![presentacion](https://github.com/user-attachments/assets/2da70b17-fa34-43fb-af80-48692f9ae0bf)](https://www.youtube.com/watch?v=_77syJPcTVo)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png" alt="Bandera" width="5%" /> Hecho en Colombia
 ![Power](https://img.shields.io/badge/Power_by_Berraquera-004DB4?style=for-the-badge&logo=Azure%20Functions&logoColor=white&labelColor=000000)
