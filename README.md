@@ -36,17 +36,21 @@ En este apartado se presenta una serie de ejercicios, estructurados a modo de tu
 > [!TIP]
 > En los repositorios que incluyen un cuaderno de Jupyter, dentro de la sección `Visualice la práctica` del archivo README, encontrará un enlace que lo dirigirá a nbviewer. Esta herramienta permite visualizar los cuadernos de Jupyter de manera más clara y estructurada, facilitando la exploración del código, gráficos y resultados sin necesidad de ejecutarlos localmente.
 
+#### 🥈 Dificultad: Media
+[Práctica FastAPI - Docker](https://github.com/jgcarrillo0/FastAPI_Practica)
 
-#### 🏅 [Práctica FastAPI - Docker](https://github.com/jgcarrillo0/FastAPI_Practica)
 Presenta un breve ejemplo de cómo desplegar una API con la cual podemos usar un modelo GPT-2 para la generación de texto. Se hace uso de FastAPI para montar la API, y mediante Docker podemos desplegarla a través de un contenedor.
 
-#### 🏅 [Práctica Folium](https://github.com/jgcarrillo0/Folium_Practica)
+#### 🥉 Dificultad: Fácil
+[Práctica Folium](https://github.com/jgcarrillo0/Folium_Practica)
+
 Este ejercicio presenta un caso práctico de georreferenciación de centros comerciales en Bogotá, Colombia, donde se explora a través de la librería Folium la visualización de datos espaciales. A lo largo del ejercicio, se abordan temas como:
 - Aplicar un filtro dentro del mapa
 - Creación de mapas coropléticos para representar información relevante
 - Aplicación de diferentes layouts para mejorar la presentación y comprensión de los resultados
 
-#### 🏅 [Práctica WordCloud](https://github.com/jgcarrillo0/WordCloud_Practica)
+[Práctica WordCloud](https://github.com/jgcarrillo0/WordCloud_Practica)
+
 Un ejercicio introductorio sobre cómo realizar un análisis de texto básico mediante el uso de nubes de palabras. En este ejercicio, exploraremos una técnica fundamental para extraer y visualizar las palabras más frecuentes en un conjunto de datos textuales, facilitando la identificación de patrones y tendencias clave en el contenido analizado.
 
 # 🛠️ Habilidades:
