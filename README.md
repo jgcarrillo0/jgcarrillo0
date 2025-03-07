@@ -30,7 +30,7 @@ Trabajo actualmente en el equipo de analítica de una compañía colombiana del 
 ### 📌 [Curso de Python](https://github.com/jgcarrillo0/Curso_Python)
 Una de las actividades que disfruto mucho es enseñar, y durante los últimos años he recopilado y organizado notas de clase sobre Python. Mi objetivo es contribuir a las personas que están comenzando a programar en este maravilloso lenguaje. He estructurado el curso de manera gradual, para que cada lección proporcione nuevas herramientas y fortalezca el conocimiento adquirido.
 
-### 🎯 Lista de prácticas
+# 🎯 Ejercicios prácticos
 En este apartado se presenta una serie de ejercicios, estructurados a modo de tutorial, en los que se exploran diversas aplicaciones de Python. Estos ejercicios están diseñados para ser útiles tanto en entornos académicos como en el ámbito laboral, proporcionando herramientas prácticas para el análisis de datos, automatización de tareas, desarrollo de algoritmos y otras aplicaciones clave en programación.
 
 > [!TIP]
