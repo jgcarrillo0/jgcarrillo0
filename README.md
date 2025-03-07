@@ -41,6 +41,8 @@ En este apartado se presenta una serie de ejercicios, estructurados a modo de tu
 
 - [Práctica PokeAPI](https://github.com/jgcarrillo0/PokeAPI_Practica): El objetivo de la práctica es consumir la API REST de Pokémon para construir una Pokédex digital que almacene y muestre información estructurada sobre diversas especies. Usaremos solicitudes HTTP para obtener datos en formato JSON, procesarlos y visualizarlos de manera eficiente.
 
+- [Práctica Algoritmo de Luhn](https://github.com/jgcarrillo0/Algoritmo_Luhn_Practica): El objetivo de la práctica es implementar el algoritmo de Luhn mediante funciones que permitan generar números de tarjetas bancarias aleatorios o validar un número existente. Esto se logrará aplicando la lógica del algoritmo para calcular el dígito de control y verificar la autenticidad de los números ingresados, garantizando su conformidad con el estándar utilizado en sistemas de identificación bancaria.
+
 #### 🥉 Dificultad: Fácil
 - [Práctica Folium](https://github.com/jgcarrillo0/Folium_Practica): Este ejercicio presenta un caso práctico de georreferenciación de centros comerciales en Bogotá, Colombia, donde se explora a través de la librería Folium la visualización de datos espaciales.
 
