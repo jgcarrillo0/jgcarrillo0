@@ -78,7 +78,7 @@ En este apartado se presenta una serie de ejercicios, estructurados a modo de tu
 
 ***
 
-### 💪 Just Do It
+# 💪 Just Do It
 
 [![presentacion](https://github.com/user-attachments/assets/2da70b17-fa34-43fb-af80-48692f9ae0bf)](https://www.youtube.com/watch?v=_77syJPcTVo)
 
