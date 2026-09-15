@@ -8,19 +8,12 @@
 
 Soy Julian Carrillo, matemático y científico de datos, apasionado por la ciencia, la tecnología y dispuesto a aprender nuevas cosas.
 
-Trabajo actualmente en el equipo de analítica de una compañía colombiana del sector finanzas como científico de datos, desarrollando e implementando proyectos de análisis descriptivo, predictivo y prescriptivo, usando técnicas como Machine Learning, Deep Learninig y PLN, enfocados a la solución de problemas del core de negocio.
-
-🚀 Me encanta todo lo relacionado con astronomía y exploración espacial
-
-🦾 Antes de ser matemático estudie mecatrónica, así que la robótica es otra de mis pasiones
-
-🕵️‍♂️ Me gustan los libros de Sherlock Holmes
-
-🎮 En mis tiempos libres juego videojuegos
-
-🎸 Amo el Rock 🤘
-
-💪 Y por supuesto me gusta hacer deporte, no todo puede ser computador
+- 🚀 Me encanta todo lo relacionado con astronomía y exploración espacial
+- 🦾 Antes de ser matemático estudie mecatrónica, así que la robótica es otra de mis pasiones
+- 🕵️‍♂️ Me gustan los libros de Sherlock Holmes
+- 🎮 En mis tiempos libres juego videojuegos
+- 🎸 Amo el Rock 🤘
+- 💪 Y por supuesto me gusta hacer deporte, no todo puede ser computador
 
 # 💼 Proyectos
 
@@ -68,13 +61,11 @@ En este apartado se presenta una serie de ejercicios, estructurados a modo de tu
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgcarrillo0&theme=tokyonight\&locale=es)
 
-![jgcarrillo0's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jgcarrillo0&show_icons=true&theme=tokyonight&rank_icon=github\&locale=es)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgcarrillo0&theme=tokyonight&progress=true\&locale=es)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jgcarrillo0&theme=tokyonight&progress=true\&locale=es)
+![jgcarrillo0's GitHub stats](https://github-stats-extended.vercel.app/api/?username=jgcarrillo0&show_icons=true&theme=tokyonight&rank_icon=github\&locale=es)
 
 # 🏆 Logros
 ![Rachas](https://github-readme-streak-stats.herokuapp.com/?user=jgcarrillo0&theme=tokyonight\&locale=es)
-
-![Logros](https://github-profile-trophy.vercel.app/?username=jgcarrillo0&theme=tokyonight\&locale=es)
 
 ***
 
