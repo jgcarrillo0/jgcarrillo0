@@ -37,16 +37,16 @@ En este apartado se presenta una serie de ejercicios, estructurados a modo de tu
 > En los repositorios que incluyen un cuaderno de Jupyter, dentro de la sección `Visualice la práctica` del archivo README, encontrará un enlace que lo dirigirá a nbviewer. Esta herramienta permite visualizar los cuadernos de Jupyter de manera más clara y estructurada, facilitando la exploración del código, gráficos y resultados sin necesidad de ejecutarlos localmente.
 
 #### 🥈 Dificultad: Media
-- [Práctica FastAPI - Docker](https://github.com/jgcarrillo0/FastAPI_Practica): Presenta un breve ejemplo de cómo desplegar una API con la cual podemos usar un modelo GPT-2 para la generación de texto. Se hace uso de FastAPI para montar la API, y mediante Docker podemos desplegarla a través de un contenedor.
+- [Práctica FastAPI - Docker](https://github.com/jgcarrillo0/Practica_FastAPI): Presenta un breve ejemplo de cómo desplegar una API con la cual podemos usar un modelo GPT-2 para la generación de texto. Se hace uso de FastAPI para montar la API, y mediante Docker podemos desplegarla a través de un contenedor.
 
-- [Práctica PokeAPI](https://github.com/jgcarrillo0/PokeAPI_Practica): El objetivo de la práctica es consumir la API REST de Pokémon para construir una Pokédex digital que almacene y muestre información estructurada sobre diversas especies. Usaremos solicitudes HTTP para obtener datos en formato JSON, procesarlos y visualizarlos de manera eficiente.
+- [Práctica PokeAPI](https://github.com/jgcarrillo0/Practica_PokeAPI): El objetivo de la práctica es consumir la API REST de Pokémon para construir una Pokédex digital que almacene y muestre información estructurada sobre diversas especies. Usaremos solicitudes HTTP para obtener datos en formato JSON, procesarlos y visualizarlos de manera eficiente.
 
-- [Práctica Algoritmo de Luhn](https://github.com/jgcarrillo0/Algoritmo_Luhn_Practica): El objetivo de la práctica es implementar el algoritmo de Luhn mediante funciones que permitan generar números de tarjetas bancarias aleatorios o validar un número existente. Esto se logrará aplicando la lógica del algoritmo para calcular el dígito de control y verificar la autenticidad de los números ingresados, garantizando su conformidad con el estándar utilizado en sistemas de identificación bancaria.
+- [Práctica Algoritmo de Luhn](https://github.com/jgcarrillo0/Practica_Algoritmo_Luhn): El objetivo de la práctica es implementar el algoritmo de Luhn mediante funciones que permitan generar números de tarjetas bancarias aleatorios o validar un número existente. Esto se logrará aplicando la lógica del algoritmo para calcular el dígito de control y verificar la autenticidad de los números ingresados, garantizando su conformidad con el estándar utilizado en sistemas de identificación bancaria.
 
 #### 🥉 Dificultad: Fácil
-- [Práctica Folium](https://github.com/jgcarrillo0/Folium_Practica): Este ejercicio presenta un caso práctico de georreferenciación de centros comerciales en Bogotá, Colombia, donde se explora a través de la librería Folium la visualización de datos espaciales.
+- [Práctica Folium](https://github.com/jgcarrillo0/Practica_Folium): Este ejercicio presenta un caso práctico de georreferenciación de centros comerciales en Bogotá, Colombia, donde se explora a través de la librería Folium la visualización de datos espaciales.
 
-- [Práctica WordCloud](https://github.com/jgcarrillo0/WordCloud_Practica): Un ejercicio introductorio sobre cómo realizar un análisis de texto básico mediante el uso de nubes de palabras. En este ejercicio, exploraremos una técnica fundamental para extraer y visualizar las palabras más frecuentes en un conjunto de datos textuales, facilitando la identificación de patrones y tendencias clave en el contenido analizado.
+- [Práctica WordCloud](https://github.com/jgcarrillo0/Practica_WordCloud): Un ejercicio introductorio sobre cómo realizar un análisis de texto básico mediante el uso de nubes de palabras. En este ejercicio, exploraremos una técnica fundamental para extraer y visualizar las palabras más frecuentes en un conjunto de datos textuales, facilitando la identificación de patrones y tendencias clave en el contenido analizado.
 
 # 🛠️ Habilidades:
 
@@ -80,9 +80,6 @@ En este apartado se presenta una serie de ejercicios, estructurados a modo de tu
 
 # 💪 Just Do It
 
-[![presentacion](https://github.com/user-attachments/assets/2da70b17-fa34-43fb-af80-48692f9ae0bf)](https://www.youtube.com/watch?v=_77syJPcTVo)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png" alt="Bandera" width="5%" /> Hecho en Colombia
 ![Power](https://img.shields.io/badge/Power_by_Berraquera-004DB4?style=for-the-badge&logo=Azure%20Functions&logoColor=white&labelColor=000000)
 ![Exito](https://img.shields.io/badge/sin_miedo_al_exito-00465B?style=for-the-badge&logo=Rocket&logoColor=white&labelColor=000000)
 ![Hacer](https://img.shields.io/badge/%C2%BFQué_hay_pa’_hacer%3F-B8DBE4?style=for-the-badge&logo=GNU%20Bash&logoColor=white&labelColor=000000)
