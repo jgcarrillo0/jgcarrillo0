@@ -39,7 +39,7 @@ En este apartado se presenta una serie de ejercicios, estructurados a modo de tu
 #### 🥉 Dificultad: Fácil
 - [Práctica Folium](https://github.com/jgcarrillo0/Practica_Folium): Este ejercicio presenta un caso práctico de georreferenciación de centros comerciales en Bogotá, Colombia, donde se explora a través de la librería Folium la visualización de datos espaciales.
 
-- [Práctica WordCloud](https://github.com/jgcarrillo0/Practica_WordCloud): Un ejercicio introductorio sobre cómo realizar un análisis de texto básico mediante el uso de nubes de palabras. En este ejercicio, exploraremos una técnica fundamental para extraer y visualizar las palabras más frecuentes en un conjunto de datos textuales, facilitando la identificación de patrones y tendencias clave en el contenido analizado.
+- [Práctica WordCloud](https://github.com/jgcarrillo0/Practica_Word_Cloud): Un ejercicio introductorio sobre cómo realizar un análisis de texto básico mediante el uso de nubes de palabras. En este ejercicio, exploraremos una técnica fundamental para extraer y visualizar las palabras más frecuentes en un conjunto de datos textuales, facilitando la identificación de patrones y tendencias clave en el contenido analizado.
 
 # 🛠️ Habilidades:
 
