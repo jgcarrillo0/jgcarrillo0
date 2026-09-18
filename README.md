@@ -45,29 +45,29 @@ En este apartado se presenta una serie de ejercicios, estructurados a modo de tu
 
 # 🛠️ Habilidades:
 
-| Lenguajes | ![Python](https://tinyurl.com/3b4p77sb) | ![R](https://tinyurl.com/52dzbc9z) | ![SQL](https://tinyurl.com/4j23w4cf) |
+## Lenguajes 
+| ![Python](https://tinyurl.com/3b4p77sb) | ![R](https://tinyurl.com/52dzbc9z) | ![SQL](https://tinyurl.com/4j23w4cf) | ![Latex](https://tinyurl.com/3ma4f2at)|
 |---|---|---|---|
 
-| Nubes | ![Azure](https://tinyurl.com/mr2pmsez) | ![AWS](https://tinyurl.com/3mhy8pcr)| ![GCP](https://tinyurl.com/2b8ut88d) |
-|---|---|---|---|
+## DevOps-Cloud
+| ![Git](https://tinyurl.com/2dharb9n) | ![Docker](https://tinyurl.com/3jy6fney) |  ![Airflow](https://tinyurl.com/ysh5fhdt) | ![VBox](https://tinyurl.com/bdhcstdj) | ![Azure](https://tinyurl.com/mr2pmsez) | ![AWS](https://tinyurl.com/3mhy8pcr)| ![GCP](https://tinyurl.com/2b8ut88d) | 
+|---|---|---|---|---|---|---|
 
-| IDE´s | ![VScode](https://tinyurl.com/y95nvu7v) | ![Jupyter](https://tinyurl.com/5n7u7wmd) |
-|---|---|---|
-| ![Colab](https://tinyurl.com/yjj85rf2) | ![RStudio](https://tinyurl.com/yc4k7ah6) | ![Spyder](https://tinyurl.com/y4fv75nx) |
+## IDE´s
+| ![VScode](https://tinyurl.com/y95nvu7v) | ![Jupyter](https://tinyurl.com/5n7u7wmd) | ![Colab](https://tinyurl.com/yjj85rf2) | ![RStudio](https://tinyurl.com/yc4k7ah6) | ![Spyder](https://tinyurl.com/y4fv75nx) |
+|---|---|---|---|---|
 
-| Otras| ![Power BI](https://tinyurl.com/4su4r33d) | ![Postman](https://tinyurl.com/5n8tzwm5) |  
+## Otras
+| ![Power BI](https://tinyurl.com/4su4r33d) | ![Postman](https://tinyurl.com/5n8tzwm5) | ![Arduino](https://tinyurl.com/mr33w326) |
 |---|---|---|
-| ![VBox](https://tinyurl.com/bdhcstdj) | ![Arduino](https://tinyurl.com/mr33w326) | ![Latex](https://tinyurl.com/3ma4f2at)|
+
+![Docker](https://tinyurl.com/3jy6fney)
 
 # 📊 Estadísticas
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgcarrillo0&theme=tokyonight\&locale=es)
+![jgcarrillo0's GitHub stats](https://github-stats-extended.vercel.app/api/?username=jgcarrillo0&show_icons=true&theme=algolia&rank_icon=github\&locale=es) ![Rachas](https://github-readme-streak-stats.herokuapp.com/?user=jgcarrillo0&theme=algolia\&locale=es)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jgcarrillo0&theme=tokyonight&progress=true\&locale=es)
-![jgcarrillo0's GitHub stats](https://github-stats-extended.vercel.app/api/?username=jgcarrillo0&show_icons=true&theme=tokyonight&rank_icon=github\&locale=es)
-
-# 🏆 Logros
-![Rachas](https://github-readme-streak-stats.herokuapp.com/?user=jgcarrillo0&theme=tokyonight\&locale=es)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jgcarrillo0&theme=algolia&progress=true\&locale=es) ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgcarrillo0&theme=algolia\&locale=es)
 
 ***
 
@@ -76,3 +76,5 @@ En este apartado se presenta una serie de ejercicios, estructurados a modo de tu
 ![Power](https://img.shields.io/badge/Power_by_Berraquera-004DB4?style=for-the-badge&logo=Azure%20Functions&logoColor=white&labelColor=000000)
 ![Exito](https://img.shields.io/badge/sin_miedo_al_exito-00465B?style=for-the-badge&logo=Rocket&logoColor=white&labelColor=000000)
 ![Hacer](https://img.shields.io/badge/%C2%BFQué_hay_pa’_hacer%3F-B8DBE4?style=for-the-badge&logo=GNU%20Bash&logoColor=white&labelColor=000000)
+
+![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5)
