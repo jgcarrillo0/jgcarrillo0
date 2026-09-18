@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jgcarrillo0/jgcarrillo0/main/Portada_.gif" autoplay loop muted playsinline width="100%">
+  <img src="https://raw.githubusercontent.com/jgcarrillo0/jgcarrillo0/main/Portada_.png" autoplay loop muted playsinline width="100%">
 </p>
 
 
