@@ -1,9 +1,11 @@
-![Portada](https://github.com/jgcarrillo0/jgcarrillo0/blob/main/Portada_.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jgcarrillo0/jgcarrillo0/main/Portada_.gif" autoplay loop muted playsinline width="100%">
+</p>
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=jgcarrillo0&color=2685BF)
 
-# 👨‍🚀 Hola 👋
+# 👨‍🚀 Hola
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian_Carrillo-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/jgcarrillo0)
 
 Soy Julian Carrillo, matemático y científico de datos, apasionado por la ciencia, la tecnología y dispuesto a aprender nuevas cosas.
