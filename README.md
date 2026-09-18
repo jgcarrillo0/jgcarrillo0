@@ -61,8 +61,6 @@ En este apartado se presenta una serie de ejercicios, estructurados a modo de tu
 | ![Power BI](https://tinyurl.com/4su4r33d) | ![Postman](https://tinyurl.com/5n8tzwm5) | ![Arduino](https://tinyurl.com/mr33w326) |
 |---|---|---|
 
-![Docker](https://tinyurl.com/3jy6fney)
-
 # 📊 Estadísticas
 
 ![jgcarrillo0's GitHub stats](https://github-stats-extended.vercel.app/api/?username=jgcarrillo0&show_icons=true&theme=algolia&rank_icon=github\&locale=es) ![Rachas](https://github-readme-streak-stats.herokuapp.com/?user=jgcarrillo0&theme=algolia\&locale=es)
